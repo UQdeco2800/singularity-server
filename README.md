@@ -1,3 +1,29 @@
+## Quick Background
+This server was developed during the course of Semster 2, 2016 at UQ in the course DECO2800 (Design Computing Studio II). This course puts students into projects with 50-60 other people. Each project should interface with a central server. In this year, that server is this one. Students were allowed to vote to opensource the project, and if students didn't want to publish their work, then their commits were removed. As a result, the server may not currently compile. 
+
+## Original Contributors
+The students who worked on this version that has been published are:
+- timmyhadwen
+- dion-loetscher
+- Nguyen Dang Khoi Truong
+- email4nickp
+- liamdm
+- jnfry
+- MaxwellBo
+- gregarious96
+- 1Jamster1 
+- lutzenburg
+- RyanCarrier
+- tbric123
+- charliegrc
+- dgormly
+- pan1501
+- jhess-osum
+- alex-mclean
+- slamon34
+- Sang Ik Park (wqdoqw)
+- tomquirk
+
 # deco2800-2016-singularity
 The **Singularity Server** is the point where all the projects and common utilities and tools come together. The central point of communication for the games, this server will handle any and all requests that come its way (whether the response is what you expect is another question). 
 
