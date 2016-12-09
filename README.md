@@ -1,10 +1,11 @@
+#DECO2800 2016 Singularity Server
 ## Quick Background
 This server was developed during the course of Semster 2, 2016 at UQ in the course DECO2800 (Design Computing Studio II). This course puts students into projects with 50-60 other people. Each project should interface with a central server. In this year, that server is this one. Students were allowed to vote to opensource the project, and if students didn't want to publish their work, then their commits were removed. As a result, the server may not currently compile. 
 
 ## Original Contributors
 The students who worked on this version that has been published are:
-- timmyhadwen
-- dion-loetscher
+- timmyhadwen (tutor)
+- dion-loetscher (tutor)
 - Nguyen Dang Khoi Truong
 - email4nickp
 - liamdm
@@ -24,7 +25,7 @@ The students who worked on this version that has been published are:
 - Sang Ik Park (wqdoqw)
 - tomquirk
 
-# deco2800-2016-singularity
+# The Server
 The **Singularity Server** is the point where all the projects and common utilities and tools come together. The central point of communication for the games, this server will handle any and all requests that come its way (whether the response is what you expect is another question). 
 
 The Singularity Server is built upon the [Dropwizard Framework v0.9.3](http://www.dropwizard.io/). Dropwizard compiles a few different tools to allow for the simple and rapid development of a RESTful API. Dropwizard also provides JDBI for easy integration with a database. The database used in this project is [Apache Derby](https://db.apache.org/derby/). 
