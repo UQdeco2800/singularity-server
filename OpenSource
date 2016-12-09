@@ -1,0 +1,38 @@
+
+# What is Open Source?
+Open source software refers to software where the source code is completely feely available to all developers and users. Anyone can read the code, modify it, and distribute it with zero strings attached. A great example of open source software is the Linux kernel (https://github.com/torvalds/linux).
+
+# Why is Open Source important?
+For singularity specifically, making the project open source is a great idea. Anyone in the studio (or other studios!) is free to continue working on the project how they see fit, which is a great educational opportunity. Say for example a team has enjoyed working on their ticket - they are able to fork the project and continue development of their feature with 0 hassle.
+
+# Which license will we use?
+We will be using the MIT License. A great explanation of this can be found here: https://tldrlegal.com/license/mit-license.
+
+# How will we be doing it?
+We need 19 people (being 75% of contributors) to agree on releasing the project under the MIT License for it to go ahead. In order to agree, you just need to 'sign' at the bottom of this post with your github username (note that this name must match up with the name you have used for your contributions to the project).
+
+# What if I don't want my code to be used?
+That is completely fine! There is no pressure for anyone to sign. You are under NO obligations to sign. If you do not wish to sign, we will simply remove your commits from the open source version of the codebase.
+
+Please sign with your github login so we can track your contributions.
+## Signatures
+- timmyhadwen
+- dion-loetscher
+- Nguyen Dang Khoi Truong
+- email4nickp
+- liamdm [deco2800-singularity-2016-*:5f81ed5a011441289f67b2223a48f5c4]
+- jnfry
+- MaxwellBo
+- gregarious96
+- 1Jamster1 
+- lutzenburg
+- RyanCarrier
+- tbric123
+- charliegrc
+- dgormly
+- pan1501
+- jhess-osum
+- alex-mclean
+- slamon34
+- Sang Ik Park (wqdoqw)
+- tomquirk

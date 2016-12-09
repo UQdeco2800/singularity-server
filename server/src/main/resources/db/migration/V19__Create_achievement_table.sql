@@ -1,0 +1,1 @@
+CREATE TABLE ACHIEVEMENTS (    ID varchar(64) PRIMARY KEY,    NAME varchar(64) UNIQUE,    DESCRIPTION varchar(255) NOT NULL,    TYPE varchar(64) NOT NULL,    SCORE int NOT NULL);

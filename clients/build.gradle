@@ -1,0 +1,16 @@
+/*
+ * This generated file contains a sample Java project to get you started.
+ * For more details take a look at the Java Quickstart chapter in the Gradle
+ * user guide available at https://docs.gradle.org/2.9/userguide/tutorial_java_projects.html
+ */
+
+dependencies {
+	compile group:'org.glassfish.jersey.core', name:'jersey-client', version: '2.19'
+    compile group:'org.glassfish.jersey.media', name:'jersey-media-json-jackson', version: '2.19'
+    compile project(':common')
+}
+
+task(runLoggingClient, dependsOn: "classes", type: JavaExec) {
+	main = "uq.deco2800.singularity.clients.realtime.LoggingClient"
+	classpath = sourceSets.main.runtimeClasspath
+}

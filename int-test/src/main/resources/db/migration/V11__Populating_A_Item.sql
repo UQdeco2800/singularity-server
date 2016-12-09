@@ -1,0 +1,1 @@
+INSERT INTO ITEM values('0','Chair','An object you can sit on');

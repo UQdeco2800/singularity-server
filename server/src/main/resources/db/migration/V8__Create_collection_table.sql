@@ -1,0 +1,6 @@
+create table COLLECTION (
+    COLLECTIONID varchar(64) PRIMARY KEY,
+    ITEMID varchar(50),
+    ITEMAMOUNT varchar(100) not null,
+	FOREIGN KEY (ITEMID) REFERENCES ITEM(ITEMID)
+);

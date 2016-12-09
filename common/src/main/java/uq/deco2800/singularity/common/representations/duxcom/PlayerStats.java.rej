@@ -1,0 +1,10 @@
+diff a/common/src/main/java/uq/deco2800/singularity/common/representations/duxcom/PlayerStats.java b/common/src/main/java/uq/deco2800/singularity/common/representations/duxcom/PlayerStats.java	(rejected hunks)
+@@ -32,7 +32,7 @@
+     
+     @JsonProperty
+     // Type of stats being saved
+-    private String type = null;
++    private String kills = null;
+     
+     @JsonProperty
+     // Current level the player is on
